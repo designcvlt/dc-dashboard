@@ -1,4 +1,4 @@
-# Next.js + Supabase + shadcn/ui Boilerplate
+# Starter Kit: Next.js + Supabase + shadcn/ui
 
 A minimal, production-ready starter template for building internal tools and web apps.
 
